@@ -1,0 +1,16 @@
+../Middle/File_sequence/file_SQ.c:39:6:FileMng_init	1
+../Middle/File_sequence/file_SQ.c:51:6:ServiceHandle	1
+../Middle/File_sequence/file_SQ.c:61:6:Service_Handshake	1
+../Middle/File_sequence/file_SQ.c:69:6:Service_AccessFolder	2
+../Middle/File_sequence/file_SQ.c:83:6:Service_OpenFile	2
+../Middle/File_sequence/file_SQ.c:106:6:Service_WriteFirstPacket	2
+../Middle/File_sequence/file_SQ.c:122:6:Service_WriteContinue	3
+../Middle/File_sequence/file_SQ.c:138:6:Service_ReadFile	1
+../Middle/File_sequence/file_SQ.c:161:6:Service_ReadAllfile	4
+../Middle/File_sequence/file_SQ.c:198:6:Service_Listfile	4
+../Middle/File_sequence/file_SQ.c:234:6:Service_DeleteFile	3
+../Middle/File_sequence/file_SQ.c:250:6:Service_RealName	3
+../Middle/File_sequence/file_SQ.c:271:6:Service_WriteFlash	3
+../Middle/File_sequence/file_SQ.c:295:6:jumb	1
+../Middle/File_sequence/file_SQ.c:300:6:Respond	2
+../Middle/File_sequence/file_SQ.c:308:6:respond_addEvent	1
